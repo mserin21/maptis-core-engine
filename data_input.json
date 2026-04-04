@@ -1,8 +1,44 @@
-{
-    "ada_parsel": "971/321 (Kemalöz/UŞAK)",
-    "parsel_alani": 494.85,
-    "kaks": 3.20,
-    "taks": 0.40,
-    "kat_adedi": 8,
-    "konum_skoru": 95
-}
+[
+    {
+        "ada_parsel": "971/321 (Kemalöz)",
+        "parsel_alani": 494.85, "kaks": 3.20, "kat_adedi": 8, "konum_skoru": 95, 
+        "tip": "Ticaret + Konut", "vasif": "İmarlı Arsa", "m2_fiyat": 28000, 
+        "jeoloji": "Önlemli Alan - Sağlam", "lat": 38.6737, "lon": 29.3905
+    },
+    {
+        "ada_parsel": "324/4 (Durak)",
+        "parsel_alani": 161.32, "kaks": 1.75, "kat_adedi": 3, "konum_skoru": 85, 
+        "tip": "Ticaret", "vasif": "Bitişik Nizam Arsa", "m2_fiyat": 45000, 
+        "jeoloji": "Yerleşime Uygun", "lat": 38.6737, "lon": 29.4128
+    },
+    {
+        "ada_parsel": "2656/7 (Cumhuriyet)",
+        "parsel_alani": 1266.23, "kaks": 1.50, "kat_adedi": 4, "konum_skoru": 75, 
+        "tip": "Konut", "vasif": "Ayrık Nizam Arsa", "m2_fiyat": 22000, 
+        "jeoloji": "Stabil Zemin", "lat": 38.6496, "lon": 29.3908
+    },
+    {
+        "ada_parsel": "683/94 (Bölme)",
+        "parsel_alani": 8763.63, "kaks": 0.05, "kat_adedi": 1, "konum_skoru": 60, 
+        "tip": "Tarla", "vasif": "İmarsız Kadastro", "m2_fiyat": 8500, 
+        "jeoloji": "Hafif Eğimli", "lat": 38.6055, "lon": 29.3806
+    },
+    {
+        "ada_parsel": "128/13 (Kuyucak)",
+        "parsel_alani": 65206.39, "kaks": 0.05, "kat_adedi": 1, "konum_skoru": 50, 
+        "tip": "Tarla", "vasif": "İmarsız Devasa Arazi", "m2_fiyat": 4500, 
+        "jeoloji": "Dolgu Riski", "lat": 38.6540, "lon": 29.3693
+    },
+    {
+        "ada_parsel": "460/8 (Bölme-Villa)",
+        "parsel_alani": 962.70, "kaks": 0.60, "kat_adedi": 2, "konum_skoru": 80, 
+        "tip": "Konut (Villa)", "vasif": "Düşük Yoğunluklu Arsa", "m2_fiyat": 18000, 
+        "jeoloji": "Kayalık Zemin", "lat": 38.6158, "lon": 29.3742
+    },
+    {
+        "ada_parsel": "282/5 (Ovademirler)",
+        "parsel_alani": 6425.40, "kaks": 0.05, "kat_adedi": 1, "konum_skoru": 45, 
+        "tip": "Tarla", "vasif": "Kırsal Kadastro", "m2_fiyat": 3200, 
+        "jeoloji": "Yumuşak Zemin", "lat": 38.6217, "lon": 29.4308
+    }
+]
